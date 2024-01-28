@@ -14,7 +14,7 @@ None for now \:\'\(
 | Sound Card | Tiger Lake-LP SPI Controller |
 | Latest Tested System | None as of now |
 | Bootloader | OpenCore 0.9.7 |
-| Models | iMac18,1, iMac18,2, iMac18,3 | 
+| Models | MacBookPro16,2 | 
 
 ## 🔧 BIOS settings
 
