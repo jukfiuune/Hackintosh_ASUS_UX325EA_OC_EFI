@@ -11,7 +11,7 @@ Attempt 2 baby
 | Graphics | Tiger Lake-LP GT2 [Iris XE Graphics] |
 | Sound Card | Tiger Lake-LP SPI Controller |
 | Latest Tested System | None |
-| Bootloader | OpenCore 0.9.7 |
+| Bootloader | OpenCore 1.0.1 |
 | Models | MacBookPro16,2 | 
 
 # Thanks to
