@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>22G630</string>
+	<string>23F79</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -33,47 +33,17 @@
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>14.0</string>
+	<string>13.3</string>
 	<key>DTSDKBuild</key>
-	<string>23A334</string>
+	<string>22E245</string>
 	<key>DTSDKName</key>
-	<string>macosx14.0</string>
+	<string>macosx13.3</string>
 	<key>DTXcode</key>
-	<string>1500</string>
+	<string>1431</string>
 	<key>DTXcodeBuild</key>
-	<string>15A240d</string>
+	<string>14E300c</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>Display Apple ID Injection</key>
-		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>as.vit9696.WhateverGreen</string>
-			<key>DisplayProductID</key>
-			<integer>40060</integer>
-			<key>DisplayVendorID</key>
-			<integer>12516</integer>
-			<key>IOClass</key>
-			<string>DisplayMergeNub</string>
-			<key>IOProviderClass</key>
-			<string>AppleDisplay</string>
-			<key>IOProviderMergeProperties</key>
-			<dict>
-				<key>DisplayProductID</key>
-				<integer>40178</integer>
-				<key>DisplayVendorID</key>
-				<integer>1552</integer>
-				<key>IOClass</key>
-				<string>AppleBacklightDisplay</string>
-				<key>IODisplayConnectFlags</key>
-				<data>AAgAAA==</data>
-				<key>IODisplayEDID</key>
-				<data>AP///////wAGEPKcAAAAABoVAQSVGg54Au8Fl1dUkiciUFQAAAABAQEBAQEBAQEBAQEBAQEBLjaAoHA4H0AwIDUAWMIQAAAaHySAoHA4H0AwIDUAWMIQAAAaAAAA/ABDb2xvciBMQ0QKICAgAAAA/QA4TB5TEQAKICAgICAgAIY=</data>
-				<key>IODisplayGUID</key>
-				<integer>436849163854938112</integer>
-				<key>IODisplayPrefsKey</key>
-				<string>IOService:/AppleACPIPlatformExpert/PC00@0/AppleACPIPCI/IGPU@2/AppleIntelFramebuffer@0/display0/AppleBacklightDisplay-610-9cf2</string>
-			</dict>
-		</dict>
 		<key>NVHDAEnabler</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
