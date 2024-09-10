@@ -8,15 +8,18 @@
 | CPU | Intel i5 1135G7 |
 | Graphics | Tiger Lake-LP GT2 [Iris XE Graphics] |
 | Sound Card | Tiger Lake-LP SPI Controller |
-| Latest Tested System | macOS Sonoma (Recovery for now) |
+| Latest Tested System | macOS Sonoma |
 | Bootloader | OpenCore 1.0.1 |
 | Models | MacBookPro16,2 | 
 
 # Working
 
+- Touchpad
 - Keyboard
 - VESA Graphics
 - USB
+- WiFi
+- NVMe
 
 # Thanks to
 
