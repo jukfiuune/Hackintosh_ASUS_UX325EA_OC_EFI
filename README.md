@@ -7,19 +7,26 @@
 | BIOS Version | 320 |
 | CPU | Intel i5 1135G7 |
 | Graphics | Tiger Lake-LP GT2 [Iris XE Graphics] |
-| Sound Card | Tiger Lake-LP SPI Controller |
-| Latest Tested System | macOS Sonoma |
+| Sound Card | Tiger Lake-LP SPI Controller (ALC294) |
+| Latest Tested System | macOS Sonoma 14.6 |
 | Bootloader | OpenCore 1.0.1 |
 | Models | MacBookPro16,2 | 
 
-# Working
+# ✅ Working
 
-- Touchpad
-- Keyboard
-- VESA Graphics
-- USB
-- WiFi
-- NVMe
+- [X] Graphics
+    - [X] Basic
+    - [ ] Accelerated
+- [X] Audio
+    - [X] Speakers
+    - [ ] Microphone (I'll try to find a layout-id later, hope it's not permanent)
+- [X] Touchpad
+- [X] Keyboard
+    - [X] Fn Keys
+- [X] WiFi
+- [X] Bluetooth
+- [X] NVMe
+- [ ] Sleep
 
 # Thanks to
 
