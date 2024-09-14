@@ -23,7 +23,7 @@
 - [X] Touchpad
 - [X] Keyboard
     - [X] Fn Keys
-- [X] WiFi
+- [X] WiFi (Noticed low range)
 - [X] Bluetooth
 - [X] NVMe
 - [ ] Sleep
