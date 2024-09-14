@@ -19,7 +19,7 @@
     - [ ] Accelerated
 - [X] Audio
     - [X] Speakers
-    - [ ] Microphone (I'll try to find a layout-id later, hope it's not permanent)
+    - [ ] Microphone
 - [X] Touchpad
 - [X] Keyboard
     - [X] Fn Keys
